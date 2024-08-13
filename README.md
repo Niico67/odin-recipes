@@ -1,0 +1,1 @@
+The goal of this project is to create a basic recipe website, which is important for me to start my journey as a webdev and programmer, and mastering HTML, CSS and JS are no easy task but i will try my best by learning from The Odin Project!
