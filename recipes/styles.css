@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(39, 38, 38);
+    color: white;
+    font-size: 18px;
+    
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h3 {
+    color: red;
+    font-size: 26px;
+}
+
+ul>li {
+    font-size: 20px
+}
+
+ol>li {
+    font-size: 22px;
+}
+
+.last-step {
+    color: #00ffff;
+}

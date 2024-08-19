@@ -1,0 +1,29 @@
+* {
+    background-color: gray;
+    
+    
+    
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.recipe-link {
+    font-size: 24px;
+    color: red;
+}
+
+ul {
+    list-style-type: none;
+    margin: 16px;
+    padding: 0;
+    text-align: center;
+    
+}
+
